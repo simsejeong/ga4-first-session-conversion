@@ -1,0 +1,13 @@
+feature,mean_abs_shap,rank,group
+view_promotion_count,0.7965888249342252,1,진입 경로(통제)
+other_view_count,0.3071792997893889,2,행동(레버)
+distinct_item_viewed,0.25436802516023743,3,행동(레버)
+traffic_medium,0.024276149533232448,4,통제 변수
+add_to_cart_count,0.023968378358092863,5,행동(레버)
+device_category,0.008481323553491307,6,통제 변수
+select_promotion_count,0.007204460351505912,7,행동(레버)
+begin_checkout_count,0.007183635605863423,8,결제 직전
+add_payment_info_count,0.00553016987794818,9,결제 직전
+select_item_count,0.004598472780981029,10,행동(레버)
+search_then_view_count,0.004085465305146941,11,행동(레버)
+view_search_results_count,0.001926956668202532,12,행동(레버)
